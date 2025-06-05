@@ -1,0 +1,29 @@
+div{
+    border: 2px solid black;
+    width: 1500px;
+    height: 250px;
+}
+
+img{
+    width: 200px;
+    height: 200px;
+    float: right;
+    margin-top: 20px;
+    border: 2px solid black;
+    margin-right: 20px;
+}
+
+h1{
+    margin-left: 50px;
+    margin-top: 20px;
+}
+
+p{
+    margin-left: 60px;
+}
+table{
+    margin-left: 60px;
+}
+ul{
+    margin-left: 50px;
+}

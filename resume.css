@@ -1,0 +1,25 @@
+img{
+    border: 3px solid rgb(101, 101, 68);
+    border-radius: 50%;
+    margin-left: 50px;
+    margin-top: 20px;
+}
+div{
+    align-items: flex-start;
+}
+h1{
+    text-align: start;
+    margin-right: 0px;
+    margin-top: 20px;
+}
+h1, h2, p, ul, i{
+    font-family: Titillium Web;
+    color: rgb(101, 101, 68);
+}
+i{
+    font-size: x-small;
+}
+span{
+    font-weight: 300;
+    text
+}
